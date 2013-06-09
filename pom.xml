@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <artifactId>mind3</artifactId>
+    <groupId>com.chinapnr.mind3</groupId>
+    <version>${mind3.version}</version>
+  </parent>
+  <artifactId>mind3-databot</artifactId>
+  <name>mind3-databot</name>
+  <url>http://mind3.chinapnr.com</url>
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+</project>
